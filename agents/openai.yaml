@@ -1,0 +1,4 @@
+interface:
+  display_name: "Client Progress Report"
+  short_description: "Turn client issues and verified fixes into a TJM report"
+  default_prompt: "Use $create-client-progress-report to create a client-friendly TJM progress report from feedback, implementation evidence, and Axiom comparisons."
